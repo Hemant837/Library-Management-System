@@ -1,2 +1,2 @@
 # Library Management System
-## Library Management System is used to manage books
+### Library Management System is used to manage books
