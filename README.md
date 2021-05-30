@@ -1,3 +1,2 @@
 # Library Management System
-### Library Management System is used to manage books
-`yolo`
+Library Management System is used to manage books
